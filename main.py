@@ -1,5 +1,7 @@
 def main():
     print("This is a test program")
+    # First update
+    print("This is the first update")
 
 
 
