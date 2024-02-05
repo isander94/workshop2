@@ -3,7 +3,7 @@ def main():
     # First update
     print("This is the first update")
     # Update from site
-    print("This was added from the website)
+    print("This was added from the website")
 
 
 
