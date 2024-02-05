@@ -8,6 +8,8 @@ def main():
     print("Hello world! (how original)")
     # Isaac
     print("Final commit")
+    # Commit from browser
+    print("This is from the browser")
 
 
 if __name__ == "__main__":
