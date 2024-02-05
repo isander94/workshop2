@@ -1,5 +1,5 @@
 def main():
-    print("This is a test program")
+    print("This is a first repo")
     # First update
     print("This is the first update")
 
